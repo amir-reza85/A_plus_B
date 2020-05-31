@@ -1,1 +1,1 @@
-# A+B in some languges of programmin
+# A+B in some languges of programming
